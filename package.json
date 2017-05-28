@@ -1,0 +1,22 @@
+{
+  "name": "diagnostic",
+  "version": "1.0.0",
+  "description": "Precourse 2.1 Diagnostic",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./util/runTests.js"
+  },
+  "author": "Hack Reactor HiRs",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.0.0",
+    "glob": "^7.1.2",
+    "mocha": "^3.4.2",
+    "request": "^2.81.0",
+    "sinon": "^2.3.2",
+    "underscore": "^1.8.3"
+  }
+}
